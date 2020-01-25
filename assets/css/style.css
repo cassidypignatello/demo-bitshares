@@ -49,6 +49,12 @@ table {
   }
 }
 
+/* Header styles */
+
+#home {
+  box-shadow: 3px 3px 10px 0 rgba(0,0,0,.75);
+}
+
 /* DAC cards */
 
 .crd-color3 > i,
