@@ -48,4 +48,12 @@ table {
     height: 225px;
   }
 }
+
+/* DAC cards */
+
+.crd-color3 > i,
+.crd-color4 > i {
+  position: relative;
+  bottom: 8px;
+}
 /*# sourceMappingURL=style.css.map */
