@@ -82,6 +82,16 @@ table {
   align-items: center;
 }
 
+/* Email Signup Form */
+
+section.section.py-10 {
+  box-shadow: 0 4px 5px -5px rgba(0,0,0,0.5);
+}
+
+section.section.py-10 > div > div > div > div {
+  box-shadow: 3px 3px 10px 0 rgba(0,0,0,.75);
+}
+
 /* Contact Page */
 
 /* Team Page */
