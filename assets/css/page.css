@@ -21102,9 +21102,6 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
 .border-glass-3 {
   border-color: rgba(255, 255, 255, 0.15) !important; }
 
-.bg-gray {
-  background-color: #fafbfb; }
-
 .bg-pale-primary {
   background-color: #eef4fc !important; }
 

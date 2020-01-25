@@ -49,7 +49,7 @@ table {
   }
 }
 
-/* Header styles */
+/* Header */
 
 #home {
   box-shadow: 3px 3px 10px 0 rgba(0,0,0,.75);
@@ -61,5 +61,15 @@ table {
 .crd-color4 > i {
   position: relative;
   bottom: 8px;
+}
+
+/* BTS Utility Token */
+
+#section-pricing {
+  box-shadow: 0 0px 6px 0 rgba(0,0,0,0.5);
+}
+
+.bg-light-blue {
+  background-color: #C3DDFC; 
 }
 /*# sourceMappingURL=style.css.map */
