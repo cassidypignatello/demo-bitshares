@@ -1,5 +1,9 @@
 'use strict';
 
+const flipCard = $('.cards').click(function () {
+  $(this).toggleClass('flipped');
+});
+
 $(function() {
 
 
@@ -88,19 +92,5 @@ $(function() {
 
 
 
-  /*
-  |--------------------------------------------------------------------------
-  | Custom Javascript code
-  |--------------------------------------------------------------------------
-  |
-  | Now that you configured your website, you can write additional Javascript
-  | code below this comment. You might want to add more plugins and initialize
-  | them in this file.
-  |
-  */
-
-  $('.cards').click(function(){
-    $(this).toggleClass('flipped');
-  });
 
 });
