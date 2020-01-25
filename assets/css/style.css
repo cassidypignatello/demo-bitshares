@@ -49,6 +49,8 @@ table {
   }
 }
 
+/* Home Page */
+
 /* Header */
 
 #home {
@@ -72,4 +74,15 @@ table {
 .bg-light-blue {
   background-color: #C3DDFC; 
 }
+
+/* FAQ */
+
+#section-faq > div > div > div > h5 {
+  display: flex;
+  align-items: center;
+}
+
+/* Contact Page */
+
+/* Team Page */
 /*# sourceMappingURL=style.css.map */
