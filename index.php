@@ -371,7 +371,7 @@
     <!-- Footer -->
     <footer id="footer" class="footer py-9">
       <div class="container">
-        <div class="row gap-y">
+        <div class="row gap-y align-items-start">
 
           <div class="col-xl-4 order-md-last">
             <h6 class="mb-4"><strong>Get Started</strong></h6>
