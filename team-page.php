@@ -22,7 +22,7 @@
     <?php include('assets/php/header.php');?>
 
     <!-- Header -->
-    <header class="header text-white" style="background-image: url(assets/img/thumb/15.jpg);">
+    <header class="header text-white" style="background-image: url(assets/images/thumb/15.jpg);">
       <div class="overlay opacity-50" style="background-image: linear-gradient(to top, #00a9e0 0%, #00587c 80%);"></div>
       <div class="container text-center">
 
@@ -109,7 +109,7 @@
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Annemieke_Dirkes.png" alt="...">
+                <img src="assets/images/team/Annemieke_Dirkes.png" alt="...">
               </a>
               <h5>Annemieke Dirkes</h5>
               <small>Compliance and Legal</small>
@@ -124,7 +124,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/2.png" alt="...">
+                <img src="assets/images/avatar/2.png" alt="...">
               </a>
               <h5>Anton Lopan</h5>
               <small>JS And Code review</small>
@@ -139,7 +139,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Armen_Azatyan.png" alt="...">
+                <img src="assets/images/team/Armen_Azatyan.png" alt="...">
               </a>
               <h5>Armen Azatyan</h5>
               <small>Product Manager / UI/UX Liaison</small>
@@ -155,7 +155,7 @@
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/5.png" alt="...">
+                <img src="assets/images/avatar/5.png" alt="...">
               </a>
               <h5>BitProfessor</h5>
                 <br>
@@ -166,7 +166,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Christopher_Sanborn.png" alt="...">
+                <img src="assets/images/team/Christopher_Sanborn.png" alt="...">
               </a>
               <h5>Dr. Christopher Sanborn</h5>
               <small>Core Developer</small>
@@ -182,7 +182,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/1.png" alt="...">
+                <img src="assets/images/avatar/1.png" alt="...">
               </a>
               <h5>Cryptick</h5>
               <small>DEXBot Cabinet</small>
@@ -197,7 +197,7 @@
                 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Danique_Sterenborg_Msc_.png" alt="...">
+                <img src="assets/images/team/Danique_Sterenborg_Msc_.png" alt="...">
               </a>
               <h5>Danique Sterenborg, Msc.</h5>
               <small>Project Manager</small>
@@ -212,7 +212,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Fabian_Schuh.png" alt="...">
+                <img src="assets/images/team/Fabian_Schuh.png" alt="...">
               </a>
               <h5>Dr.-Ing. Fabian Schuh</h5>
               <small>Developer</small>
@@ -228,7 +228,7 @@
             
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Ihor%20Brazhnichenko.png" alt="...">
+                <img src="assets/images/team/Ihor%20Brazhnichenko.png" alt="...">
               </a>
               <h5>Ihor Brazhnichenko</h5>
                 <small>UX Coordinator</small>
@@ -244,7 +244,7 @@
             <div class="row gap-y">
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/John_Jones.png" alt="...">
+                <img src="assets/images/team/John_Jones.png" alt="...">
               </a>
               <h5>John Jones</h5>
               <small>Core Developer</small>
@@ -260,7 +260,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Linda.png" alt="...">
+                <img src="assets/images/team/Linda.png" alt="...">
               </a>
               <h5>田蒙蒙 Linda Tian</h5>
               <small>Coordinator Assistant</small>
@@ -275,7 +275,7 @@
           
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Magnus%20Anderson.png" alt="...">
+                <img src="assets/images/team/Magnus%20Anderson.png" alt="...">
               </a>
               <h5>Magnus Anderson</h5>
                 <small>Project Manager</small>
@@ -292,7 +292,7 @@
             <div class="row gap-y">
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/2.png" alt="...">
+                <img src="assets/images/avatar/2.png" alt="...">
               </a>
               <h5>Michel Santos</h5>
               <small>Senior Business Analyst</small>
@@ -307,7 +307,7 @@
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Milos_Preocanin.png" alt="...">
+                <img src="assets/images/team/Milos_Preocanin.png" alt="...">
               </a>
               <h5>Milos Preocanin</h5>
               <small>General Manager</small>
@@ -324,7 +324,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
                 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Nathan_Hourt.png" alt="...">
+                <img src="assets/images/team/Nathan_Hourt.png" alt="...">
               </a>
               <h5>Nathan Hourt</h5>
               <small>Core Developer</small>
@@ -342,7 +342,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
             <div class="row gap-y">
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/5.png" alt="...">
+                <img src="assets/images/avatar/5.png" alt="...">
               </a>
               <h5>Octomatic</h5>
               <small>Lead Developer, Senior Contribution Auditor, Code Review</small>
@@ -354,7 +354,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
                 
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/4.png" alt="...">
+                <img src="assets/images/avatar/4.png" alt="...">
               </a>
               <h5>Permie</h5>
                 <small>Project Manager</small>
@@ -366,7 +366,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/1.png" alt="...">
+                <img src="assets/images/avatar/1.png" alt="...">
               </a>
               <h5>Peter Conrad</h5>
               <small>Core Developer</small>
@@ -383,7 +383,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/2.png" alt="...">
+                <img src="assets/images/avatar/2.png" alt="...">
               </a>
               <h5>Qing Feng</h5>
                 <small>Android Developer</small>
@@ -395,7 +395,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Ratchaphol_Pattanasakpaiboon.png" alt="...">
+                <img src="assets/images/team/Ratchaphol_Pattanasakpaiboon.png" alt="...">
               </a>
               <h5>Ratchaphol Pattanasakpaiboon</h5>
               <small>Designer</small>
@@ -410,7 +410,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/3.png" alt="...">
+                <img src="assets/images/avatar/3.png" alt="...">
               </a>
               <h5>Richard Castro</h5>
               <small>Web Developer, HTML/CSS/PHP</small>
@@ -428,7 +428,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/4.png" alt="...">
+                <img src="assets/images/avatar/4.png" alt="...">
               </a>
               <h5>Roman Bellendir</h5>
                 <small>Full-stack Developer</small>
@@ -443,7 +443,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Roman%20Sabirov.png" alt="...">
+                <img src="assets/images/team/Roman%20Sabirov.png" alt="...">
               </a>
               <h5>Roman Sabirov</h5>
               <small>Lead Front-End Developer / Architect, Code Review</small>
@@ -458,7 +458,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Ronald_Kramer.png" alt="...">
+                <img src="assets/images/team/Ronald_Kramer.png" alt="...">
               </a>
               <h5>Ronald Kramer RA.</h5>
               <small>Chartered Accountant</small>
@@ -475,7 +475,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Ross_Walker.png" alt="...">
+                <img src="assets/images/team/Ross_Walker.png" alt="...">
               </a>
               <h5>Ross Walker</h5>
                 <small>Content Manager, Sysadmin</small>
@@ -491,7 +491,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/RyanRFox.png" alt="...">
+                <img src="assets/images/team/RyanRFox.png" alt="...">
               </a>
               <h5>Ryan R. Fox</h5>
               <small>Development Coordinator</small>
@@ -507,7 +507,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Stefan_Schiessl.png" alt="...">
+                <img src="assets/images/team/Stefan_Schiessl.png" alt="...">
               </a>
               <h5>Stefan Schiessl</h5>
               <small>Release Management</small>
@@ -525,7 +525,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/3.png" alt="...">
+                <img src="assets/images/avatar/3.png" alt="...">
               </a>
               <h5>svk31</h5>
                 <small>React Dev, Release Management</small>
@@ -540,7 +540,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/1.png" alt="...">
+                <img src="assets/images/avatar/1.png" alt="...">
               </a>
               <h5>Syalon Flauspid</h5>
               <small>Core Developer</small>
@@ -555,7 +555,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/5.png" alt="...">
+                <img src="assets/images/avatar/5.png" alt="...">
               </a>
               <h5>T. Sugimoto</h5>
               <small>Lead Documentation Specialist, QA/Tester</small>
@@ -569,7 +569,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
             <div class="row gap-y">
             <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/team/Tong_Shen.png" alt="...">
+                <img src="assets/images/team/Tong_Shen.png" alt="...">
               </a>
               <h5>沈瞳 Tong Shen</h5>
                 <small>Coordinator Assistant</small>
@@ -585,7 +585,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/2.png" alt="...">
+                <img src="assets/images/avatar/2.png" alt="...">
               </a>
               <h5>Vvk</h5>
               <small>Supporting Dev, Contribution Auditor</small>
@@ -600,7 +600,7 @@ Apparently with a sixth sense for business and logical analysis. Since joining B
 
              <div class="col-md-4 team-2">
               <a href="#">
-                <img src="assets/img/avatar/4.png" alt="...">
+                <img src="assets/images/avatar/4.png" alt="...">
               </a>
               <h5>Yang Ming</h5>
               <small>Designer / Tester</small>
