@@ -82,7 +82,8 @@ table {
 
 /* Email Signup Form */
 
-section.section.py-10 {
+section.section.py-10,
+.main-content {
   box-shadow: 0 4px 5px -5px rgba(0,0,0,0.5);
 }
 
