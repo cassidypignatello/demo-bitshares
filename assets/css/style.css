@@ -134,13 +134,13 @@ div.col-xl-4.order-md-last > a.btn.btn-secondary.mb-2 {
 /* Header */
 
 .header.text-white {
-  box-shadow: 0 3px 10px 0 rgba(0,0,0,.75);
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,.5);
 }
 
 /* Contact Cards */
 
 .card.shadow-3 {
-  box-shadow: 3px 3px 10px 0 rgba(0,0,0,.75);
+  box-shadow: 3px 3px 10px 0 rgba(0,0,0,.5);
 }
 
 div.row.gap-y.mt-6 > div:nth-child(1) > div > div > div > div > div > p:nth-child(1) {
