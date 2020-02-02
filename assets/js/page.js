@@ -35056,7 +35056,7 @@ __webpack_require__(84);
       navbarHeight = page.navbar.outerHeight(),
       headerHeight = page.header.innerHeight(),
       scrollOffsetTop = 0,
-      prevOffsetTop = 0;
+	  prevOffsetTop = 0;
 
   page.initScroll = function() {
 
